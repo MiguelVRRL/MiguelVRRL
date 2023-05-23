@@ -7,7 +7,7 @@
 ## Skills
 
 <img src="https://skillicons.dev/icons?i=linux,bash,neovim,go,ts,docker" />
-<img src="https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,nest,django" />
+<img src="https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,django,nestjs" />
 
 
 ## 🌺 wanna learn Elixir
