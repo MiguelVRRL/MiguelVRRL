@@ -12,5 +12,5 @@
 
 ## 🌺 wanna learn Elixir
 <p align="center">
-  <img width="720" height="480" src="https://github.com/MiguelVRRL/MiguelVRRL/blob/main/magic.gif">
+  <img width="720" height="520" src="https://github.com/MiguelVRRL/MiguelVRRL/blob/main/magic.gif">
 </p>
