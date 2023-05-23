@@ -1,16 +1,16 @@
-### Hi there 👋
+![alt text](https://github.com/MiguelVRRL/MiguelVRRL/blob/main/sea.jpeg)
 
-<!--
-**MiguelVRRL/MiguelVRRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨  Hi I'm MiguelVRRL or Rudel like you want named  ✨
 
-Here are some ideas to get you started:
+### 🍄  I'm currently learning learning ${\color{#29b8e8}Gin \space \color{orange}CS \space \color{white}Asp.NET}$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<img src="https://skillicons.dev/icons?i=linux,bash,neovim,go,ts,docker" />
+<img src="https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,nest,django" />
+
+
+## 🌺 wanna learn Elixir
+<p align="center">
+  <img width="720" height="480" src="https://github.com/MiguelVRRL/MiguelVRRL/blob/main/magic.gif">
+</p>
