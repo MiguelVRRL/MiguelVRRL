@@ -1,9 +1,9 @@
-![alt text](https://github.com/MiguelVRRL/MiguelVRRL/blob/main/sea.jpeg)
+![alt text](https://github.com/MiguelVRRL/MiguelVRRL/blob/main/landscape.jpg)
 
 # ✨  Hi I'm MiguelVRRL or Rudel like you want named  ✨
 
-### 🍄  I'm currently learning learning ${\color{#29b8e8}Gin \space \color{orange}CS \space \color{white}Asp.NET}$
-
+### 🍄  I'm currently learning learning ${\color{#E69DFB}Gin \space \color{#6A5ACD}CS \space \color{#23BAC4}Asp.NET}$
+ 
 ## Skills
 
 <img src="https://skillicons.dev/icons?i=linux,bash,neovim,go,ts,docker" />
